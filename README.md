@@ -2,9 +2,9 @@
 
 **[Link to Website] (https://johnsoncm.github.io/homework1/)**
 
-**![Screenshot of Website (./homework/assets/website_screenshot_1.png "screenshot of website")]**
+**![Screenshot of Website] (./homework1/website_screenshot_1.png "screenshot of website")**
 
-**![Screenshot of Website (./homework/assets/website_screenshot_2.png "screenshot of website")]**
+**![Screenshot of Website] (./homework1/website_screenshot_2.png "screenshot of website")**
 
 Codebase was edited to follow accessibility standards in order to optimize site for search engines. The following criteria was followed:
 
